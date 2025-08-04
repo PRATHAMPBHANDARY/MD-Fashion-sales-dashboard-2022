@@ -55,6 +55,7 @@ MD_Fashion_Sales_Dashboard_2022.xlsx – Interactive dashboard with insights
 
 - <a href-"https://github.com/PRATHAMPBHANDARY/MD-Fashion-sales-dashboard-2022/blob/main/MD%20FASHION%20SALES%20DASHBOARD%202022.xlsx">dataset view</a>
 ---
+ - <a href- "Screenshot. MD FASHION SALES DASHBOARD 2022.png">dataset view</a>
 
 How to Use
 
