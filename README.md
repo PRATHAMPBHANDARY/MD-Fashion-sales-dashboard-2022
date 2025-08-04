@@ -53,7 +53,7 @@ Major Buyers: Women aged 26–49 (38.63% of sales)
 MD_Fashion_Sales_Dashboard_2022.xlsx – Interactive dashboard with insights
 
 
-
+- <a href-"https://github.com/PRATHAMPBHANDARY/MD-Fashion-sales-dashboard-2022/blob/main/MD%20FASHION%20SALES%20DASHBOARD%202022.xlsx">dataset view</a>
 ---
 
 How to Use
