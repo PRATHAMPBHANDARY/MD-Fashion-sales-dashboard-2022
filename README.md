@@ -25,7 +25,7 @@ Customer age group contribution
 
 Created with Excel Pivot Tables, Charts, and interactive Slicers.
 
-
+![image alt](https://github.com/PRATHAMPBHANDARY/MD-Fashion-sales-dashboard-2022/blob/3966c06fe888a500684e130facb71df25c375328/Screenshot.%20MD%20FASHION%20SALES%20DASHBOARD%202022.png)
 ---
 
 ✅ Key Insights
